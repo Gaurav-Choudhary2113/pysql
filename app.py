@@ -247,5 +247,5 @@ def main():
     st.markdown("---")
     st.markdown("Built with ❤ using Python, SQL & Streamlit")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
